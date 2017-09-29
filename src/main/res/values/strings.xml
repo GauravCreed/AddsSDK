@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AddsSDK</string>
+
+    <string name="app_desc">App Description</string>
+    <string name="enter_email_hint">Enter Email </string>
+    <string name="send">Send Email Address</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="err_msg">Please Enter Email Address</string>
+    <string name="err_msg_email">Please Enter Right Email Address</string>
+    <string name="no_connection_err">No Internet Connection Found...</string>
+
+    <string name="init_url">http://smartad.dealin.co/api/applications/init</string>
+    <string name="champign_url">http://smartad.dealin.co/api/applications/getrandomcampaign</string>
+    <string name="email_champign_url">http://smartad.dealin.co/api/clicks/emailcoupon</string>
+
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="radius">radius</string>
+    <string name="appId">appId</string>
+    <string name="appId_value">ERlshsti</string>
+    <string name="device_id">deviceId</string>
+    <string name="device_model">deviceModel</string>
+    <string name="os">os</string>
+    <string name="version">version</string>
+    <string name="country">country</string>
+    <string name="app_not_initialize">App Is Not initialize</string>
+    <string name="email">email</string>
+    <string name="campaignId">campaignId</string>
+    <string name="sent_coupon_msg">Coupon code is sent to mail</string>
+    <string name="close_adds_url">http://smartad.dealin.co/api/clicks/closead</string>
+</resources>
